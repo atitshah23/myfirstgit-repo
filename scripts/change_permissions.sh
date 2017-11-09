@@ -1,4 +1,4 @@
 
 #!/bin/bash
-chmod -R 755 /var/www/html/atitapp
+chmod -R 755 /var/www/html/
 
